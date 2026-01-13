@@ -43,5 +43,4 @@ The project is deployed using **GitHub Pages**:
 
 ---
 
-## 📂 Project Structure
 
